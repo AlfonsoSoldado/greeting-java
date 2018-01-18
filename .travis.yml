@@ -1,0 +1,6 @@
+language:
+    - Open JDK 8
+
+services:
+    - Oracle JDK 8
+
